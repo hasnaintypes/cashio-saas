@@ -50,3 +50,4 @@ playwright-report/
 CLAUDE.md
 .claude/
 .planning/
+.env*
